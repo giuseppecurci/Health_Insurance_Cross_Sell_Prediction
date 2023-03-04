@@ -16,7 +16,7 @@ Now, in order to predict, whether the customer would be interested in Vehicle in
 
 # Goal of the project
 
-The goal of the project is, aside from building a ML model, are the following:
+The goal of the project, aside from building a ML model, are the following:
 *   Show how to perform an EDA(Exploratory Data Analysis)
 *   Show different methods to tackle the problem of unbalanced classes
 *   Show how to compare performances on predictions with the train and the test set
